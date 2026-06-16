@@ -149,7 +149,7 @@ Production-Ready Applications
 | No. | Project | Concepts Practiced | Status | Date |
 |------|----------|-------------------|---------|------|
 | 01 | Student Management System | Classes, Objects, Constructors, Collections | ✅ Completed | 10/06/2026 |
-| 02 | Coming Soon | - | ⏳ |
+| 02 | ATM Simulation System | Exception Handling, Custom Exceptions, Interfaces, Abstract Classes, Collections | ✅ Completed | 16/06/2026 |
 | 03 | Coming Soon | - | ⏳ |
 | 04 | Coming Soon | - | ⏳ |
 | 05 | Coming Soon | - | ⏳ |
