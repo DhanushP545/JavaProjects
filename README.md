@@ -150,7 +150,7 @@ Production-Ready Applications
 |------|----------|-------------------|---------|------|
 | 01 | Student Management System | Classes, Objects, Constructors, Collections | ✅ Completed | 10/06/2026 |
 | 02 | ATM Simulation System | Exception Handling, Custom Exceptions, Interfaces, Abstract Classes, Collections | ✅ Completed | 16/06/2026 |
-| 03 | Coming Soon | - | ⏳ |
+| 03 | Employee Analytics App | Functional Programming, Java 8, Lambda Expressions, Streams | ✅ Completed | 19/06/2026 |
 | 04 | Coming Soon | - | ⏳ |
 | 05 | Coming Soon | - | ⏳ |
 
